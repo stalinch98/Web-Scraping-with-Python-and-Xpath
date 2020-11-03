@@ -1,1 +1,3 @@
-# Web-Scraping-with-Python-and-Xpath
+Platzi
+=============
+Web Scraping Basics with Python and Xpath
