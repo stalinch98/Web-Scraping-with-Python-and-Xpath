@@ -1,0 +1,4 @@
+Links = '//h2/a/@href'
+Titulo = '//div[@class="col-8 order-2 d-flex flex-column"]//h2/a/text()'
+resumen = '//div[@class="lead"]/p/text()'
+cuerpo = '//div[@class="html-content"]/p[not(@class)]/text()'
